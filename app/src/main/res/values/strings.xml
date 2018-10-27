@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="titulo_login">Mi App</string>
+    <string name="hint_nombre_usuario">Ingrese nombre de usuario</string>
+    <string name="hint_password">Ingrese password</string>
+    <string name="but_login">Login</string>
+</resources>
